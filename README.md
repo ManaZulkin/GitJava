@@ -1,1 +1,1 @@
-# GitJava
+Repository for home work 
